@@ -1,0 +1,28 @@
+.app {
+  background-color: #171233;
+  min-height: 100vh;
+}
+
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root {
+  border-radius: 0 !important;
+}
+.css-ahj2mt-MuiTypography-root {
+  font-size: 16px !important;
+  color: white !important;
+  font-weight: 500 !important;
+}
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root.Mui-expanded:first-of-type {
+  background: #25263b !important;
+}
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root:first-of-type {
+  background: #25263b !important;
+}
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root:last-of-type {
+  background: #25263b !important;
+}
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root {
+  background: #25263b !important;
+}
+.css-yw020d-MuiAccordionSummary-expandIconWrapper {
+  color: white !important;
+}
